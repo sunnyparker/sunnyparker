@@ -1,4 +1,4 @@
- Hi, I’m Eze Sunday Ifeanacho (a.k.a. sunnyparker)
+ Hi, I’m Eze Sunday Ifeanacho (a.k.a. sunnyparker),
  I’m interested in Python Full Stack Developer Jobs or Django web Developer Jobs.
  I’m currently an intermediate (Mid-Python) Developer with over 5years experience Software Engineer.
  I’m looking to collaborate on any Jobs that requires a Python and Django expertise.
